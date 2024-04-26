@@ -14,7 +14,7 @@ This Python code snippet demonstrates a simple linear regression model applied t
 6. **Prediction for Specific Input**: It demonstrates how to use the trained model to predict the price for a specific input size (`x_i = 1.2`). This prediction is made by applying the model's equation with the learned parameters `w` and `b`.
 
 Overall, this code provides a basic illustration of how to implement and visualize a simple linear regression model for predicting housing prices based on the size of the house. It's a foundational example commonly used in machine learning and serves as a starting point for more complex regression analyses.
-**Plot the data points**
+##Plot the data points
 ![Rplot](https://github.com/UMMY87/Model-Representation/assets/117314436/73f4581f-f2f3-499c-af7b-98607e2a66ab)
-**Plot the Model Prediction**
+##Plot the Model Prediction
 ![Rplot](https://github.com/UMMY87/Model-Representation/assets/117314436/e2ae0df3-b949-4a28-b661-cdad22b1da6c)
